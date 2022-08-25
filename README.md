@@ -16,3 +16,4 @@ https://barrgroup.com/embedded-systems/books/programming-embedded-systems/compil
 https://www.geeksforgeeks.org/language-processors-assembler-compiler-and-interpreter/
 https://www.scaler.com/topics/c/compilation-process-in-c/
 https://developer.arm.com/documentation/dui0474/m/image-structure-and-generation/the-structure-of-an-arm-elf-image?lang=en
+https://www.totalphase.com/blog/2020/07/about-can-protocol-how-to-debug-transmit-can-communication/
