@@ -24,3 +24,4 @@ https://community.infineon.com/t5/XMC/CAN-BSL-operation-with-XMC4000-vs-XMC1400/
 https://www.infineon.com/dgdl/Infineon-ApplicationNote_XMC1000_Microcontroller_BootModeHandling-AN-v01_00-EN.pdf?fileId=5546d462525dbac40152d0591da87d34
 https://www.infineon.com/dgdl/Infineon-IP_BMI_XMC1-TR-v01_02-EN.pdf?fileId=5546d4624ad04ef9014b0780c2af2264
 https://www.infineon.com/dgdl/Infineon-AP32300_XMC_MultiCAN-AN-v01_00-EN.pdf?fileId=5546d462557e6e890155a049fb915be3
+https://www.infineon.com/cms/en/product/microcontroller/32-bit-industrial-microcontroller-based-on-arm-cortex-m/32-bit-xmc1000-industrial-microcontroller-arm-cortex-m0/xmc1404-f064x0200-aa/#!tools
