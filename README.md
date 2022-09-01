@@ -17,3 +17,8 @@ https://www.geeksforgeeks.org/language-processors-assembler-compiler-and-interpr
 https://www.scaler.com/topics/c/compilation-process-in-c/
 https://developer.arm.com/documentation/dui0474/m/image-structure-and-generation/the-structure-of-an-arm-elf-image?lang=en
 https://www.totalphase.com/blog/2020/07/about-can-protocol-how-to-debug-transmit-can-communication/
+
+https://forum.segger.com/index.php/Thread/7128-SOLVED-XMC-Boot-kit-switch-BMI/
+https://wiki.segger.com/Infineon_XMC1000
+https://community.infineon.com/t5/XMC/CAN-BSL-operation-with-XMC4000-vs-XMC1400/td-p/308750
+https://www.infineon.com/dgdl/Infineon-ApplicationNote_XMC1000_Microcontroller_BootModeHandling-AN-v01_00-EN.pdf?fileId=5546d462525dbac40152d0591da87d34
